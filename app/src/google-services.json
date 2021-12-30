@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "111580020207",
+    "project_id": "searchandfilter-6ffa7",
+    "storage_bucket": "searchandfilter-6ffa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111580020207:android:9b9ad5eaa761c6753e0a1a",
+        "android_client_info": {
+          "package_name": "com.odhiambodevelopers.firebasesearchfilteringdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111580020207-hf4pf7h36embo1at76lekvss5p0c47e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBG9GM825uEj1dh9FMM_1sNhI7D8q1GCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111580020207-hf4pf7h36embo1at76lekvss5p0c47e9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
